@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{talks.html}, nofooter  
+==Nidham Gazagnadou - Talks & Slides
+
+Here is a list of the talks or presentation I gave or will give.
+
+== 2018
+- *Optimal mini-batch size for stochastic variance-reduced methods*\n
+  Nidham Gazagnadou and Robert M. Gower\n
+  /PGMO Days, EDF Lab Paris - Saclay, 2018/\n
+  \[[pdfs/Gazagnadou_Gower_OptimalMinibatchSize_PGMO_days_2018.pdf slides]\]

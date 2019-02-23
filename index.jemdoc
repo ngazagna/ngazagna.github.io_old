@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Nidham Gazagnadou - Home
+
+~~~
+{}{img_left}{photos/nidham_suit.jpg}{alt text}{194}{247}{}
+I am a first-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom ParisTech] in France. 
+I work on stochastic variance-reduced gradient methods under the supervision of [https://perso.telecom-paristech.fr/rgower/index.html Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].\n
+
+My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]). 
+My topics of research are Machine Learning and Optimization.\n
+
+I am also contributing to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt]. 
+~~~
+
+== Contact
+~~~
+Email: nidham \[dot\] gazagnadou AT telecom-paristech \[dot\] fr\n
+
+[https://github.com/ngazagna Github]\n
+
+[https://www.linkedin.com/in/nidham-gazagnadou-b06415a7/ LinkedIn]\n
+
+Office: B 412\n
+Télécom ParisTech\n
+46 Rue Barrault,\n
+75013 Paris, France
+~~~
+
+== News
+- Oct. 2018 - Started my PhD at Télécom ParisTech
