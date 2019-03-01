@@ -3,8 +3,5 @@
 
 Here is a list of the talks or presentation I gave or will give.
 
-== 2018
-- *Optimal mini-batch size for stochastic variance-reduced methods*\n
-  Nidham Gazagnadou and Robert M. Gower\n
-  /PGMO Days, EDF Lab Paris - Saclay, 2018/\n
-  \[[pdfs/Gazagnadou_Gower_OptimalMinibatchSize_PGMO_days_2018.pdf slides]\]
+== 2019
+- [https://imag.edu.umontpellier.fr/seminaires/seminaire-des-doctorants/ Séminaire des doctorants de l'IMAG] (27\/02\/2019), "Optimal mini-batch and step sizes for SAGA" \[[pdfs/talk_imag_02-2019_optimal_mini-batch.pdf slides]\]
