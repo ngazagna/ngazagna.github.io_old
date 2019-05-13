@@ -1,6 +1,0 @@
-# jemdoc: menu{MENU}{research.html}, nofooter  
-==Nidham Gazagnadou - Research
-
-== Publications
-- 2019
--- N. Gazagnadou, R. M. Gower, J. Salmon, [https://arxiv.org/abs/1902.00071 Optimal mini-batch and step sizes for SAGA], arXiv:1902.00071, 2019. \[[https://github.com/gowerrobert/StochOpt.jl code]\]
