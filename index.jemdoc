@@ -1,15 +1,15 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, nofooter
 ==Nidham Gazagnadou - Home
 
 ~~~
 {}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a first-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom ParisTech] in France. 
+I am a first-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom Paris] in France.
 I work on stochastic variance-reduced gradient methods under the supervision of [https://perso.telecom-paristech.fr/rgower/index.html Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].\n
 
-My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]). 
+My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]).
 My topics of research are Machine Learning and Optimization.\n
 
-I am also contributing to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt]. 
+I am also contributing to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt].
 ~~~
 
 == Contact
@@ -21,11 +21,12 @@ Email: nidham \[dot\] gazagnadou AT telecom-paristech \[dot\] fr\n
 [https://www.linkedin.com/in/nidham-gazagnadou-b06415a7/ LinkedIn]\n
 
 Office: B 412\n
-Télécom ParisTech\n
+Télécom Paris\n
 46 Rue Barrault,\n
 75013 Paris, France
 ~~~
 
 == News
-- Apr. 2019 - Accepted conference paper at ICML 2019
-- Oct. 2018 - Started my PhD at Télécom ParisTech
+- Aug. 2019 - Talk given at [https://iccopt2019.berlin/ ICCOPT 2019 (International Conference on Continuous Optimization)]
+- Apr. 2019 - Accepted conference paper at [https://icml.cc/Conferences/2019 ICML 2019 (International Conference on Machine Learning)]
+- Oct. 2018 - Started my PhD at Télécom Paris
