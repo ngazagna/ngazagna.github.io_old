@@ -1,13 +1,13 @@
-# jemdoc: menu{MENU}{teaching.html}, nofooter  
+# jemdoc: menu{MENU}{teaching.html}, nofooter
 ==Nidham Gazagnadou - Teaching
 
 Here is a list of the courses I will be involved in as a teaching assistant. Do not hesitate to drop me an email if you find something incorrect or unclear.
 
 == 2018-2019
-=== Courses at Télécom ParisTech
+=== Courses at Télécom Paris
 - MDI113 (Analysis)
 
-=== Courses at ENSTA ParisTech
+=== Courses at ENSTA Paris
 - MA101 (Probabilities and Statistics)
 -- Practical python 3 example of exercise 3 of sujet 3 (statistics) available [./codes/ma101_estimators_convergence.ipynb here]
 # HTML trick to download automatically a file: <li><p>Practical python 3 example of exercise 3 of sujet 3 (statistics) available <a href="./codes/ma101_estimators_convergence.ipynb" download>here</a>.</p>
