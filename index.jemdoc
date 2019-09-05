@@ -3,8 +3,8 @@
 
 ~~~
 {}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a first-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom Paris] in France.
-I work on stochastic variance-reduced gradient methods under the supervision of [https://perso.telecom-paristech.fr/rgower/index.html Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].\n
+I am a second-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom Paris] in France.
+I work on stochastic variance-reduced gradient methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower], [http://www.josephsalmon.eu/ Joseph Salmon] and [https://perso.telecom-paristech.fr/ofercoq/ Olivier Fercoq].\n
 
 My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]).
 My topics of research are Machine Learning and Optimization.\n
@@ -27,6 +27,7 @@ Télécom Paris\n
 ~~~
 
 == News
-- Aug. 2019 - Talk given at [https://iccopt2019.berlin/ ICCOPT 2019 (International Conference on Continuous Optimization)]
-- Apr. 2019 - Accepted conference paper at [https://icml.cc/Conferences/2019 ICML 2019 (International Conference on Machine Learning)]
+- Sep. 2019 - Accepted conference paper at NeurIPS 2019
+- Aug. 2019 - [pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf Talk] given at ICCOPT 2019
+- Apr. 2019 - Accepted [http://proceedings.mlr.press/v97/gazagnadou19a/gazagnadou19a.pdf conference paper] at ICML 2019
 - Oct. 2018 - Started my PhD at Télécom Paris
