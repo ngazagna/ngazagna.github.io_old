@@ -3,6 +3,6 @@
 
 == 2019
 - O. Sebbouh, *N. Gazagnadou*, S. Jelassi, F. Bach, R. M. Gower, /Towards closing the gap between the theory and practice of SVRG/, 2019.\n
-\[[https://arxiv.org/abs/arXiv:1908.02725 Preprint]\] \[[https://github.com/gowerrobert/StochOpt.jl Code]\]
+\[[https://arxiv.org/abs/arXiv:1908.02725 Preprint]\] \[[https://github.com/gowerrobert/StochOpt.jl Code]\] \[[https://papers.nips.cc/paper/8354-towards-closing-the-gap-between-the-theory-and-practice-of-svrg.pdf Proceedings]\] \[[pdfs/poster_neurips_12_2019_free_svrg.pdf Poster]\]
 - *N. Gazagnadou*, R. M. Gower, J. Salmon, /Optimal mini-batch and step sizes for SAGA/, ICML 2019.\n
 \[[https://arxiv.org/abs/1902.00071 Preprint]\] \[[https://github.com/gowerrobert/StochOpt.jl Code]\] \[[http://proceedings.mlr.press/v97/gazagnadou19a/gazagnadou19a.pdf Proceedings]\] \[[pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf Slides]\]

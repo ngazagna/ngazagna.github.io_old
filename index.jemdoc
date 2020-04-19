@@ -3,8 +3,8 @@
 
 ~~~
 {}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a second-year PhD student in the [http://www.tsi.telecom-paristech.fr/en/ Image, Data, Signal] department at [https://www.telecom-paristech.fr/eng Télécom Paris] in France.
-I work on stochastic variance-reduced gradient methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower], [http://www.josephsalmon.eu/ Joseph Salmon] and [https://perso.telecom-paristech.fr/ofercoq/ Olivier Fercoq].\n
+I am a second-year PhD student in the [https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal Image, Data, Signal] department at [https://www.telecom-paris.fr/en/home Télécom Paris] in France.
+I work on stochastic variance-reduced gradient and randomized iterative methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower], [http://www.josephsalmon.eu/ Joseph Salmon] and [https://perso.telecom-paristech.fr/ofercoq/ Olivier Fercoq].\n
 
 My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]).
 My topics of research are Machine Learning and Optimization.\n
@@ -14,20 +14,20 @@ I am also contributing to the Julia suite of stochastic optimization codes [http
 
 == Contact
 ~~~
-Email: nidham \[dot\] gazagnadou AT telecom-paristech \[dot\] fr\n
+Email: nidham \[dot\] gazagnadou AT telecom-paris \[dot\] fr\n
 
 [https://github.com/ngazagna Github]\n
 
 [https://www.linkedin.com/in/nidham-gazagnadou-b06415a7/ LinkedIn]\n
 
-Office: B 412\n
+Office: 5C42\n
 Télécom Paris\n
-46 Rue Barrault,\n
-75013 Paris, France
+19 place Marguerite Perey,\n
+91120 Palaiseau, France
 ~~~
 
 == News
-- Sep. 2019 - Accepted conference paper at NeurIPS 2019
+- Sep. 2019 - Accepted [https://papers.nips.cc/paper/8354-towards-closing-the-gap-between-the-theory-and-practice-of-svrg.pdf conference paper] at NeurIPS 2019
 - Aug. 2019 - [pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf Talk] given at ICCOPT 2019
 - Apr. 2019 - Accepted [http://proceedings.mlr.press/v97/gazagnadou19a/gazagnadou19a.pdf conference paper] at ICML 2019
 - Oct. 2018 - Started my PhD at Télécom Paris
