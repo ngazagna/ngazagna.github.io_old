@@ -4,5 +4,8 @@
 Here is a list of the talks or presentation I gave or will give.
 
 == 2019
-- [https://iccopt2019.berlin/ ICCOPT] (06\/08\/2019), /Optimal mini-batch and step sizes for SAGA/ \[[pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf slides]\]
-#- [https://imag.edu.umontpellier.fr/seminaires/seminaire-des-doctorants/ Séminaire des doctorants de l'IMAG] (27\/02\/2019), "Optimal Mini-Batch and Step Sizes for SAGA" \[[pdfs/talk_imag_02-2019_optimal_mini-batch.pdf slides]\]
+- [https://www.fondation-hadamard.fr/en/pgmo-conferences/pgmo-days PGMO Days] (04\/12\/2019), /Towards closing the gap between the theory and practice of SVRG/ \[[pdfs/talk_pgmo_days_dec-2019_free_svrg.pdf Slides]\]
+- [https://iccopt2019.berlin/ ICCOPT] (06\/08\/2019), /Optimal mini-batch and step sizes for SAGA/ \[[pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf Slides]\]
+#- [https://imag.edu.umontpellier.fr/seminaires/seminaire-des-doctorants/ Séminaire des doctorants de l'IMAG] (27\/02\/2019), "Optimal Mini-Batch and Step Sizes for SAGA" \[[pdfs/talk_imag_02-2019_optimal_mini-batch.pdf Slides]\]
+
+

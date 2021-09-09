@@ -1,11 +1,44 @@
 # jemdoc: menu{MENU}{teaching.html}, nofooter
 ==Nidham Gazagnadou - Teaching
 
-Here is a list of the courses I will be involved in as a teaching assistant. Do not hesitate to drop me an email if you find something incorrect or unclear.
+Here is a list of the courses (64 hours/year) I have been involved in as a teaching assistant.
+
+== 2020-2021
+=== Courses at école Polytechnique: [https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science Master 2 Data Science]
+- Optimization for Data Science given by [http://alexandre.gramfort.net/ A. Gramfort] & [https://gowerrobert.github.io/ R. M. Gower]
+
+=== Courses at ENSTA Paris
+- [https://who.rocq.inria.fr/Jean-Charles.Gilbert/ensta/cours2a/optim.html Differentiable Optimization]: Theory and Algorithms (OPT201) given by [https://who.rocq.inria.fr/Jean-Charles.Gilbert/ J.-C. Gilbert]
+
+=== Courses at Télécom Paris
+- Optimization for Machine Learning (SD-TSIA211)
+- Statistics: linear models (SD-TSIA204)
+
+
+
+== 2019-2020
+=== Courses at école Polytechnique : [https://portail.polytechnique.edu/mathematiquesappliquees/fr/masters/masters/m2-data-science Master 2 Data Science]
+- Optimization for Data Science given by [http://alexandre.gramfort.net/ A. Gramfort] & [https://gowerrobert.github.io/ R. M. Gower]
+
+=== Courses at ENSTA Paris
+- [https://who.rocq.inria.fr/Jean-Charles.Gilbert/ensta/cours2a/optim.html Differentiable Optimization]: Theory and Algorithms (OPT201 & OPT202) given by [https://who.rocq.inria.fr/Jean-Charles.Gilbert/ J.-C. Gilbert]
+
+=== Courses at Télécom Paris
+- Introductory lecture course on Supervised Learning (TPT40 - Athens week)
+- Optimization for Machine Learning (SD-TSIA211)
+- Statistics: linear models (SD-TSIA204)
+
+
 
 == 2018-2019
 === Courses at Télécom Paris
+- Introductory lecture course on Supervised Learning (TPT40 - Athens week)
+- Optimization for Machine Learning (SD-TSIA211)
+- Statistics: linear models (SD-TSIA204)
 - MDI113 (Analysis)
+
+=== One week of lessons at [https://aimsammi.org/ AMMI] in Rwanda (Kigali)
+- Optimization for Data Science given by [https://gowerrobert.github.io/ R. M. Gower]
 
 === Courses at ENSTA Paris
 - MA101 (Probabilities and Statistics)

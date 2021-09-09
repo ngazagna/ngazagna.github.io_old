@@ -3,18 +3,29 @@
 
 ~~~
 {}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a second-year PhD student in the [https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal Image, Data, Signal] department at [https://www.telecom-paris.fr/en/home Télécom Paris] in France.
-I work on stochastic variance-reduced gradient and randomized iterative methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower], [http://www.josephsalmon.eu/ Joseph Salmon] and [https://perso.telecom-paristech.fr/ofercoq/ Olivier Fercoq].\n
+I am a third-year PhD student in the [https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal Image, Data, Signal] department at [https://www.telecom-paris.fr/en/home Télécom Paris] in France.
+I work on stochastic variance-reduced gradient and randomized iterative methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].\n
 
-My PhD aims at developing scalable optimization methods for solving the empirical risk minimization problem, particularly used in training machine learning algorithms (more info [http://www.theses.fr/s208813 here]).
-My topics of research are Machine Learning and Optimization.\n
+My topics of research broadly encompass Optimization methods (especially stochastic variance-reduced gradient ones) for Machine Learning problems.
+More specifically, I am interested in extending /sketch-and-project/ and /splitting/ methods to large scale settings especially by analyzing mini-batch updates and by combining them with existing acceleration techniques (momentum/heavy-ball, Nesterov acceleration, etc.).
+I also try to establish links between existing stochastic optimization methods and reinterpret their updates.\n
 
-I am also contributing to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt].
+As far as possible, I try to code efficient and reproducible experiments through tested open source codes.
+I am contributing to the Python open source package [https://github.com/facebookresearch/RidgeSketch RidgeSketch] (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
+I also contributed to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt].\n\n
+
+*I am already on the job market and open for a research scientist/engineer position starting in early 2022.*\n\n
+
+
+/Advertisement/ : I highly recommend the [https://github.com/benchopt/benchOpt BenchOpt] Python package which aims at facilitating the benchmark of optimization methods for ML problems.
+I will try to contribute more to this package in the future.
+
 ~~~
 
 == Contact
 ~~~
-Email: nidham \[dot\] gazagnadou AT telecom-paris \[dot\] fr\n
+Email addresses: nidham \[dot\] gazagnadou AT gmail \[dot\] com\n
+or nidham \[dot\] gazagnadou AT telecom-paris \[dot\] fr\n
 
 [https://github.com/ngazagna Github]\n
 
@@ -27,6 +38,8 @@ Télécom Paris\n
 ~~~
 
 == News
+- Jul.-Aug. 2021 - Reviewer for NeurIPS 2021
+- May. 2021 - [https://arxiv.org/abs/2105.05565 New paper] out (under review) which comes with the corresponding [https://github.com/facebookresearch/RidgeSketch RidgeSketch] open source package !
 - Jul.-Aug. 2020 - Reviewer for NeurIPS 2020
 - Sep. 2019 - Accepted [https://papers.nips.cc/paper/8354-towards-closing-the-gap-between-the-theory-and-practice-of-svrg.pdf conference paper] at NeurIPS 2019
 - Aug. 2019 - [pdfs/talk_iccopt_08-2019_optimal_mini-batch.pdf Talk] given at ICCOPT 2019
