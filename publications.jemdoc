@@ -1,6 +1,10 @@
 # jemdoc: menu{MENU}{publications.html}, nofooter
 ==Nidham Gazagnadou - Publications
 
+== 2022
+- R. M. Gower, M. Blondel, *N. Gazagnadou*, F. Pedregosa, /Cutting Some Slack for SGD with Adaptive Polyak Stepsizes/, 2022.\n
+\[[https://arxiv.org/abs/2202.12328 Preprint]\]
+
 == 2021
 - *N. Gazagnadou*, M. Ibrahim, R. M. Gower, /RidgeSketch: A Fast sketching based solver for large scale ridge regression/, 2021.\n
 \[[https://arxiv.org/abs/2105.05565 Preprint]\] \[[https://github.com/facebookresearch/RidgeSketch Python package]\]

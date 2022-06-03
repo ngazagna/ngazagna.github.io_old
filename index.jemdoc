@@ -3,19 +3,18 @@
 
 ~~~
 {}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a third-year PhD student in the [https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal Image, Data, Signal] department at [https://www.telecom-paris.fr/en/home Télécom Paris] in France.
-I work on stochastic variance-reduced gradient and randomized iterative methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].\n
+I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team lead by Lingjuan Lyu.
 
-My topics of research broadly encompass Optimization methods (especially stochastic variance-reduced gradient ones) for Machine Learning problems.
-More specifically, I am interested in extending /sketch-and-project/ and /splitting/ methods to large scale settings especially by analyzing mini-batch updates and by combining them with existing acceleration techniques (momentum/heavy-ball, Nesterov acceleration, etc.).
-I also try to establish links between existing stochastic optimization methods and reinterpret their updates.\n
+My topics of research broadly encompass Optimization methods (especially stochastic and federated ones) for Machine Learning problems and more recently AI Privacy.\n
+
+I did my PhD in the [https://www.telecom-paris.fr/en/the-school/teaching-research-departments/image-data-signal Image, Data, Signal] department at [https://www.telecom-paris.fr/en/home Télécom Paris] in France.
+I worked on stochastic variance-reduced gradient and randomized iterative methods under the supervision of [https://gowerrobert.github.io/ Robert M. Gower] and [http://www.josephsalmon.eu/ Joseph Salmon].
+More specifically, I was interested in extending /sketch-and-project/ and /splitting/ methods to large scale settings especially by analyzing mini-batch updates and by combining them with existing acceleration techniques (momentum/heavy-ball, Nesterov acceleration, etc.).
+I also tried to establish links between existing stochastic optimization methods and reinterpret their updates.\n
 
 As far as possible, I try to code efficient and reproducible experiments through tested open source codes.
 I am contributing to the Python open source package [https://github.com/facebookresearch/RidgeSketch RidgeSketch] (developed with FAIR New York) about sketch-and-project methods for the ridge regression problem.
 I also contributed to the Julia suite of stochastic optimization codes [https://github.com/gowerrobert/StochOpt.jl StochOpt].\n\n
-
-*I am already on the job market and open for a research scientist/engineer position starting in early 2022.*\n\n
-
 
 /Advertisement/ : I highly recommend the [https://github.com/benchopt/benchOpt BenchOpt] Python package which aims at facilitating the benchmark of optimization methods for ML problems.
 I will try to contribute more to this package in the future.
@@ -24,21 +23,18 @@ I will try to contribute more to this package in the future.
 
 == Contact
 ~~~
-Email addresses: nidham \[dot\] gazagnadou AT gmail \[dot\] com\n
-or nidham \[dot\] gazagnadou AT telecom-paris \[dot\] fr\n
+Email addresses: nidham \[dot\] gazagnadou AT sony \[dot\] com\n
+or nidham \[dot\] gazagnadou AT gmail \[dot\] com\n
 
 [https://github.com/ngazagna Github]\n
 
 [https://www.linkedin.com/in/nidham-gazagnadou-b06415a7/ LinkedIn]\n
 
-Office: 5C42\n
-Télécom Paris\n
-19 place Marguerite Perey,\n
-91120 Palaiseau, France
 ~~~
 
 == News
-- Oct. 2021 - *NeurIPS 2021 Outstanding Reviewer Award given to the top 8% of reviewers*, awarded free ticket and registration
+- June 2022 - *Our [https://arxiv.org/abs/2105.05565 RidgeSketch paper] got accepted for publication in [https://www.siam.org/publications/journals/siam-journal-on-matrix-analysis-and-applications-simax SIMAX] !*
+- Oct. 2021 - NeurIPS 2021 Outstanding Reviewer Award given to the top 8% of reviewers, awarded free ticket and registration
 - Jul.-Aug. 2021 - Reviewer for NeurIPS 2021
 - May. 2021 - [https://arxiv.org/abs/2105.05565 New paper] out (under review) which comes with the corresponding [https://github.com/facebookresearch/RidgeSketch RidgeSketch] open source package !
 - Jul.-Aug. 2020 - Reviewer for NeurIPS 2020
