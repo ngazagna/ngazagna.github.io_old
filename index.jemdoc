@@ -2,8 +2,8 @@
 ==Nidham Gazagnadou - Home
 
 ~~~
-{}{img_left}{./photos/nidham_suit.jpg}{Photograph in a suit}{194}{247}{}
-I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team lead by Lingjuan Lyu.
+{}{img_left}{./photos/Nidham_Gazagnadou_sony_ai.JPG}{Picture of me}{194}{247}{}
+I am a research scientist at Sony AI in the Privacy-Preserving Machine Learning team lead by [https://sites.google.com/view/lingjuan-lyu/home Lingjuan Lyu].
 
 My topics of research broadly encompass Optimization methods (especially stochastic and federated ones) for Machine Learning problems and more recently AI Privacy.\n
 
@@ -33,7 +33,10 @@ or nidham \[dot\] gazagnadou AT gmail \[dot\] com\n
 ~~~
 
 == News
-- June 2022 - *Our [https://arxiv.org/abs/2105.05565 RidgeSketch paper] got accepted for publication in [https://www.siam.org/publications/journals/siam-journal-on-matrix-analysis-and-applications-simax SIMAX] !*
+- March 2023 - Reviewer for ICML 2023
+- Feb. 2023 - Reviewer for JMLR
+- Aug. 2022 - Reviewer for NeurIPS 2022
+- June 2022 - Our [https://arxiv.org/abs/2105.05565 RidgeSketch paper] got accepted for publication in [https://www.siam.org/publications/journals/siam-journal-on-matrix-analysis-and-applications-simax SIMAX] !
 - Oct. 2021 - NeurIPS 2021 Outstanding Reviewer Award given to the top 8% of reviewers, awarded free ticket and registration
 - Jul.-Aug. 2021 - Reviewer for NeurIPS 2021
 - May. 2021 - [https://arxiv.org/abs/2105.05565 New paper] out (under review) which comes with the corresponding [https://github.com/facebookresearch/RidgeSketch RidgeSketch] open source package !
